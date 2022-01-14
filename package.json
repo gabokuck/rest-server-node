@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app",
     "desarrollo": "nodemon app",
-    "produccion": "git push heroku main"
+    "build": "git push heroku main"
   },
   "keywords": [],
   "author": "",
