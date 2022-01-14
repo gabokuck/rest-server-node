@@ -4,10 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node app",
-    "desarrollo": "nodemon app",
-    "build": "git push heroku main",
-    "env": "heroku config"
+    "start": "node app"
   },
   "keywords": [],
   "author": "",
