@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node app",
     "desarrollo": "nodemon app",
-    "build": "git push heroku main"
+    "build": "git push heroku main",
+    "env": "heroku config"
   },
   "keywords": [],
   "author": "",
